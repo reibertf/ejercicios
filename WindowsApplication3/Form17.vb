@@ -1,0 +1,66 @@
+﻿Public Class Form17
+
+    Private Sub cbxpais_SelectedIndexChanged(sender As Object, e As EventArgs) Handles cbxpais.SelectedIndexChanged
+
+        cbxestado.Items.Clear()
+
+        If cbxpais.SelectedItem = "Mexico" Then
+            cbxestado.Items.Add("Aguascalientes - Aguascalientes")
+            cbxestado.Items.Add("Baja California - Mexicali")
+            cbxestado.Items.Add("Baja California Sur - La Paz")
+            cbxestado.Items.Add("Campeche - San Francisco de Campeche")
+            cbxestado.Items.Add("Chihuahua - Chihuahua")
+            cbxestado.Items.Add("Chiapas - Tuxtla Gutiérrez")
+            cbxestado.Items.Add("Coahuila de Zaragoza - Saltillo")
+            cbxestado.Items.Add("Colima - Colima")
+            cbxestado.Items.Add("Durango - Victoria de Durango")
+            cbxestado.Items.Add("Guanajuato - Guanajuato")
+            cbxestado.Items.Add("Guerrero - Chilpancingo de los Bravo")
+            cbxestado.Items.Add("Hidalgo - Pachuca de Soto")
+            cbxestado.Items.Add("Jalisco - Guadalajara")
+            cbxestado.Items.Add("México - Toluca de Lerdo")
+            cbxestado.Items.Add("Michoacán de Ocampo - Morelia")
+            cbxestado.Items.Add("Nayarit - Tepic")
+            cbxestado.Items.Add("Nuevo León: Monterrey")
+            cbxestado.Items.Add("Oaxaca - Oaxaca de Juárez")
+            cbxestado.Items.Add("Puebla - Puebla de Zaragoza")
+            cbxestado.Items.Add("Querétaro - Santiago de Querétaro")
+            cbxestado.Items.Add("San Luis Potosí - San Luis Potosí")
+            cbxestado.Items.Add("Sinaloa - Culiacán Rosales")
+            cbxestado.Items.Add("Tabasco - Villahermosa")
+            cbxestado.Items.Add("Tamaulipas - Ciudad Victoria")
+            cbxestado.Items.Add("Tlaxcala - Tlaxcala de Xicohténcatl")
+            cbxestado.Items.Add("Veracruz - Xalapa-Enríquez")
+            cbxestado.Items.Add("Yucatán - Mérida")
+            cbxestado.Items.Add("Zacatecas - Zacatecas")
+            cbxestado.Items.Add("México (País) - Ciudad de México (DF)")
+
+        ElseIf cbxpais.SelectedItem = "Venezuela" Then
+            cbxestado.Items.Add("Amazonas - Puerto Ayacucho")
+            cbxestado.Items.Add("Anzoategui - Barcelona")
+            cbxestado.Items.Add("Apure - San Fernando de Apure")
+            cbxestado.Items.Add("Aragua - Maracay")
+            cbxestado.Items.Add("Barinas - Barinas")
+            cbxestado.Items.Add("Bolivar Ciudad de Guayana")
+            cbxestado.Items.Add("Carabobo - Valencia")
+            cbxestado.Items.Add("Cojedes - San Carlos")
+            cbxestado.Items.Add("Delta Amacuro - Tucupita")
+            cbxestado.Items.Add("Distrito Capital - Caracas")
+            cbxestado.Items.Add("Falcón - Punto Fijo")
+            cbxestado.Items.Add("Guárico - San Juan De Los Morros")
+            cbxestado.Items.Add("Lara - Barquisimeto")
+            cbxestado.Items.Add("Mérida - Merida")
+            cbxestado.Items.Add("Miranda - Caracas")
+            cbxestado.Items.Add("Monagas - Maturin")
+            cbxestado.Items.Add("Nueva Esparta - Por La Mar")
+            cbxestado.Items.Add("Portuguesa - Acarigua")
+            cbxestado.Items.Add("Sucre - Cumaná")
+            cbxestado.Items.Add("Táchira - San Cristobal")
+            cbxestado.Items.Add("Trujillo - Valencia")
+            cbxestado.Items.Add("La Guaira - Catia La Mar")
+            cbxestado.Items.Add("Yaracuy - San Felipe")
+            cbxestado.Items.Add("Zulia - Maracaibo")
+
+        End If
+    End Sub
+End Class
