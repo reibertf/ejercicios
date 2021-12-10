@@ -1,0 +1,39 @@
+c:\users\eliannys\documents\visual studio 2013\Projects\EjerciciosVB.Net\EjerciciosVB.Net\bin\Debug\EjerciciosVB.Net.exe.config
+c:\users\eliannys\documents\visual studio 2013\Projects\EjerciciosVB.Net\EjerciciosVB.Net\obj\Debug\EjerciciosVB.Net.Menu.resources
+c:\users\eliannys\documents\visual studio 2013\Projects\EjerciciosVB.Net\EjerciciosVB.Net\obj\Debug\EjerciciosVB.Net.Resources.resources
+c:\users\eliannys\documents\visual studio 2013\Projects\EjerciciosVB.Net\EjerciciosVB.Net\obj\Debug\EjerciciosVB.Net.vbproj.GenerateResource.Cache
+c:\users\eliannys\documents\visual studio 2013\Projects\EjerciciosVB.Net\EjerciciosVB.Net\bin\Debug\EjerciciosVB.Net.exe
+c:\users\eliannys\documents\visual studio 2013\Projects\EjerciciosVB.Net\EjerciciosVB.Net\bin\Debug\EjerciciosVB.Net.pdb
+c:\users\eliannys\documents\visual studio 2013\Projects\EjerciciosVB.Net\EjerciciosVB.Net\bin\Debug\EjerciciosVB.Net.xml
+c:\users\eliannys\documents\visual studio 2013\Projects\EjerciciosVB.Net\EjerciciosVB.Net\obj\Debug\EjerciciosVB.Net.exe
+c:\users\eliannys\documents\visual studio 2013\Projects\EjerciciosVB.Net\EjerciciosVB.Net\obj\Debug\EjerciciosVB.Net.xml
+c:\users\eliannys\documents\visual studio 2013\Projects\EjerciciosVB.Net\EjerciciosVB.Net\obj\Debug\EjerciciosVB.Net.pdb
+C:\Users\Eliannys\documents\visual studio 2013\Projects\EjerciciosVB.Net\EjerciciosVB.Net\obj\Debug\EjerciciosVB.Net.ejercicio23.resources
+C:\Users\Eliannys\documents\visual studio 2013\Projects\EjerciciosVB.Net\EjerciciosVB.Net\obj\Debug\EjerciciosVB.Net.Ejercicio25.resources
+C:\Users\Eliannys\documents\visual studio 2013\Projects\EjerciciosVB.Net\EjerciciosVB.Net\obj\Debug\EjerciciosVB.Net.FormEjercicio16.resources
+C:\Users\Eliannys\documents\visual studio 2013\Projects\EjerciciosVB.Net\EjerciciosVB.Net\obj\Debug\EjerciciosVB.Net.Formejercicio17.resources
+C:\Users\Eliannys\Desktop\Ejercicios de lenguaje de programacion\EjerciciosVB.Net\EjerciciosVB.Net\bin\Debug\EjerciciosVB.Net.exe.config
+C:\Users\Eliannys\Desktop\Ejercicios de lenguaje de programacion\EjerciciosVB.Net\EjerciciosVB.Net\obj\Debug\EjerciciosVB.Net.exe
+C:\Users\Eliannys\Desktop\Ejercicios de lenguaje de programacion\EjerciciosVB.Net\EjerciciosVB.Net\obj\Debug\EjerciciosVB.Net.xml
+C:\Users\Eliannys\Desktop\Ejercicios de lenguaje de programacion\EjerciciosVB.Net\EjerciciosVB.Net\obj\Debug\EjerciciosVB.Net.pdb
+C:\Users\Eliannys\Desktop\Ejercicios de lenguaje de programacion\EjerciciosVB.Net\EjerciciosVB.Net\bin\Debug\EjerciciosVB.Net.exe
+C:\Users\Eliannys\Desktop\Ejercicios de lenguaje de programacion\EjerciciosVB.Net\EjerciciosVB.Net\bin\Debug\EjerciciosVB.Net.pdb
+C:\Users\Eliannys\Desktop\Ejercicios de lenguaje de programacion\EjerciciosVB.Net\EjerciciosVB.Net\bin\Debug\EjerciciosVB.Net.xml
+C:\Users\Eliannys\Desktop\Ejercicios de lenguaje de programacion\EjerciciosVB.Net\EjerciciosVB.Net\obj\Debug\EjerciciosVB.Net.ejercicio23.resources
+C:\Users\Eliannys\Desktop\Ejercicios de lenguaje de programacion\EjerciciosVB.Net\EjerciciosVB.Net\obj\Debug\EjerciciosVB.Net.Ejercicio25.resources
+C:\Users\Eliannys\Desktop\Ejercicios de lenguaje de programacion\EjerciciosVB.Net\EjerciciosVB.Net\obj\Debug\EjerciciosVB.Net.FormEjercicio16.resources
+C:\Users\Eliannys\Desktop\Ejercicios de lenguaje de programacion\EjerciciosVB.Net\EjerciciosVB.Net\obj\Debug\EjerciciosVB.Net.Formejercicio17.resources
+C:\Users\Eliannys\Desktop\Ejercicios de lenguaje de programacion\EjerciciosVB.Net\EjerciciosVB.Net\obj\Debug\EjerciciosVB.Net.Formejercicio22.resources
+C:\Users\Eliannys\Desktop\Ejercicios de lenguaje de programacion\EjerciciosVB.Net\EjerciciosVB.Net\obj\Debug\EjerciciosVB.Net.Menu.resources
+C:\Users\Eliannys\Desktop\Ejercicios de lenguaje de programacion\EjerciciosVB.Net\EjerciciosVB.Net\obj\Debug\EjerciciosVB.Net.Resources.resources
+C:\Users\Eliannys\Desktop\Ejercicios de lenguaje de programacion\EjerciciosVB.Net\EjerciciosVB.Net\obj\Debug\EjerciciosVB.Net.vbproj.GenerateResource.Cache
+C:\Users\Eliannys\Desktop\Ejercicios de lenguaje de programacion\EjerciciosVB.Net\EjerciciosVB.Net\obj\Debug\EjerciciosVB.Net.Formejercicio21.resources
+C:\Users\Eliannys\Desktop\Ejercicios de lenguaje de programacion\EjerciciosVB.Net\EjerciciosVB.Net\obj\Debug\EjerciciosVB.Net.FormEjercicio1.resources
+C:\Users\Eliannys\Desktop\Ejercicios de lenguaje de programacion\EjerciciosVB.Net\EjerciciosVB.Net\obj\Debug\EjerciciosVB.Net.FormEjercicio111.resources
+C:\Users\Eliannys\Desktop\Ejercicios de lenguaje de programacion\EjerciciosVB.Net\EjerciciosVB.Net\obj\Debug\EjerciciosVB.Net.FormEjercicio112.resources
+C:\Users\Eliannys\Desktop\Ejercicios de lenguaje de programacion\EjerciciosVB.Net\EjerciciosVB.Net\obj\Debug\EjerciciosVB.Net.FormEjercicio12.resources
+C:\Users\Eliannys\Desktop\Ejercicios de lenguaje de programacion\EjerciciosVB.Net\EjerciciosVB.Net\obj\Debug\EjerciciosVB.Net.FormEjercicio14.resources
+C:\Users\Eliannys\Desktop\Ejercicios de lenguaje de programacion\EjerciciosVB.Net\EjerciciosVB.Net\obj\Debug\EjerciciosVB.Net.FormEjercicio15.resources
+C:\Users\Eliannys\Desktop\Ejercicios de lenguaje de programacion\EjerciciosVB.Net\EjerciciosVB.Net\obj\Debug\EjerciciosVB.Net.FormEjercicio18.resources
+C:\Users\Eliannys\Desktop\Ejercicios de lenguaje de programacion\EjerciciosVB.Net\EjerciciosVB.Net\obj\Debug\EjerciciosVB.Net.FormEjercicio19.resources
+C:\Users\Eliannys\Desktop\Ejercicios de lenguaje de programacion\EjerciciosVB.Net\EjerciciosVB.Net\obj\Debug\EjerciciosVB.Net.FormEjercicio26.resources
